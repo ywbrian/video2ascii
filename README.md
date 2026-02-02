@@ -2,7 +2,7 @@
 Convert video files to ASCII art animations in the terminal.
 
 ## Requirements
-- C++17 compiler
+- C++20 compiler
 - CMake 3.16+
 - OpenCV 4.x (core, imgproc, videoio)
 
